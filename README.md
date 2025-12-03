@@ -1,5 +1,5 @@
-# Solution Architect – AWS Migration Design
-High-level AWS architecture design for migrating two on‑premises workloads, a three‑tier web application and a Hadoop‑based analytics environment, into a cloud‑native, fully managed solution on AWS.
+# Solution Architect – AWS Migration Design  
+High-level AWS architecture design for migrating two on‑premises workloads, a three‑tier web application and a Hadoop‑based analytics environment, into a cloud‑native, fully managed solution on AWS.  
 The focus is on **scalability**, **high availability**, **security**, and **reduced operational overhead** by leaning on managed services instead of self‑managed infrastructure.
 ---
 ## Scenario
